@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/public.loader.js";
+    var loaderUrl = buildUrl + "/GIL.loader.js";
     var config = {
-        dataUrl: buildUrl + "/public.data",
-        frameworkUrl: buildUrl + "/public.framework.js",
-        codeUrl: buildUrl + "/public.wasm",
+        dataUrl: buildUrl + "/GIL.data",
+        frameworkUrl: buildUrl + "/GIL.framework.js",
+        codeUrl: buildUrl + "/GIL.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "WebglTest",
