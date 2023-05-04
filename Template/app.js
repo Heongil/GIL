@@ -9,7 +9,7 @@
         codeUrl: buildUrl + "/GIL.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
-        productName: "WebglTest",
+        productName: "CustomTest",
         productVersion: "0.1",
     };
 
